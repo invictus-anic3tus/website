@@ -6,6 +6,7 @@ body {
   color: #111;
   background: #fdfdfb;
   line-height: 1.5;
+  font-size: clamp(16px, 4vw, 19px);
 }
 
 header {
@@ -17,12 +18,12 @@ header {
 }
 
 header img {
-  height: 32px;
-  width: 32px;
+  height: clamp(32px, 9vw, 48px);
+  width: clamp(32px, 9vw, 48px);
 }
 
 header h1 {
-  font-size: 1.2em;
+  font-size: clamp(1.2em, 5vw, 1.6em);
   margin: 0;
 }
 
