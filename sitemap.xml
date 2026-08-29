@@ -3,17 +3,21 @@
   <url>
     <loc>https://www.anicetus.dev/index.html</loc>
     <priority>0.8</priority>
+    <lastmod>2026-08-27</lastmod>
   </url>
   <url>
     <loc>https://www.anicetus.dev/portfolio.html</loc>
     <priority>0.5</priority>
+    <lastmod>2026-08-27</lastmod>
   </url>
   <url>
     <loc>https://www.anicetus.dev/contact.html</loc>
     <priority>0.3</priority>
+    <lastmod>2026-08-27</lastmod>
   </url>
   <url>
     <loc>https://www.anicetus.dev/projects.html</loc>
     <priority>0.7</priority>
+    <lastmod>2026-08-27</lastmod>
   </url>
 </urlset>
